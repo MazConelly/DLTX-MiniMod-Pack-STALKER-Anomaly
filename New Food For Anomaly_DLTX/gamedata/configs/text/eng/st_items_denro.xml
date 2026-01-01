@@ -5,7 +5,7 @@
 	</string>
 	<string id="st_energy_drink_stalker_descr">
 		<text>It is often used by stalkers in multi-day hikes when there is no opportunity to stop and rest. The drink contains easily digestible carbohydrates, as well as drugs that cause the release of adrenaline into the blood.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] stimulator\n
@@ -18,7 +18,7 @@
 	</string>
 	<string id="st_energy_drink_non_stop_descr">
 		<text>Excellent energy drink Non Stop. It contains caffeine, taurine and a powerful vitamin complex that relieves fatigue and adds strength. Unable to take even a step? Then this is exactly what you need.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] stimulator\n
@@ -31,7 +31,7 @@
 	</string>
 	<string id="st_sok_0_descr">
 		<text>A nutritious product that perfectly restores health.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -42,7 +42,7 @@
 	</string>
 	<string id="st_sok_1_descr">
 		<text>A nutritious product that perfectly restores health.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -53,7 +53,7 @@
 	</string>
 	<string id="st_galet_descr">
 		<text>It is quite nutritious, allowing long-term storage of the product, but you will not get enough of it. Usually found in the military.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n</text>
@@ -63,7 +63,7 @@
 	</string>
 	<string id="st_kilka_descr">
 		<text>A very tasty fish in tomato sauce, caught in the Pacific Ocean, and transported by some stalkers to the exclusion zone.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -74,7 +74,7 @@
 	</string>
 	<string id="st_jaguar_descr">
 		<text>drink it is called "Jaguar" because it contains alcohol. drink contains 5% alcohol, as well as drugs that cause the release of adrenaline into the blood.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] stimulator\n
@@ -86,7 +86,7 @@
 	</string>
 	<string id="st_pivo_0_descr">
 		<text>Pretty good beer. Easy to drink.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] stimulator\n
@@ -98,7 +98,7 @@
 	</string>
 	<string id="st_korkunov_descr">
 		<text>With crushed nuts and raisins. A favorite treat of many stalkers. A great remedy for a bad mood.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -109,7 +109,7 @@
 	</string>
 	<string id="st_milka_descr">
 		<text>Very tasty milk chocolate. Very rare in the Zone.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -120,7 +120,7 @@
 	</string>
 	<string id="st_bondauel_1_descr">
 		<text>Green peas of the "Tender" variety. Selected and sweet green peas from "Bonduelle" are carefully harvested, cleaned in the field and produced on the day of harvest.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -131,7 +131,7 @@
 	</string>
 	<string id="st_twix_descr">
 		<text>Two caramel cookies covered with chocolate. Great in the morning with tea.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -142,7 +142,7 @@
 	</string>
 	<string id="st_milki_wey_descr">
 		<text>Delicious milk chocolate bar with souffle filling. A great remedy for a bad mood.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -153,7 +153,7 @@
 	</string>
 	<string id="st_vodka_0_descr">
 		<text>Cheap and low-quality vodka 38 degrees. If there is no money for a good vodka, then you can drink.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] stimulator\n
 		%c[d_red] • %c[ui_gray_2] strong alcohol\n
@@ -164,7 +164,7 @@
 	</string>
 	<string id="st_cup_pivo_descr">
 		<text>An iron mug filled with light beer.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] stimulator\n
 		%c[d_red] • %c[ui_gray_2] weak alcohol\n
@@ -175,7 +175,7 @@
 	</string>
 	<string id="st_cup_descr">
 		<text>An ordinary iron mug. An indispensable thing both on the Mainland and in the Zone.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] widespread use\n
 		</text>
 	</string>
@@ -184,7 +184,7 @@
 	</string>
 	<string id="st_spoon_descr">
 		<text>An ordinary iron tablespoon. An indispensable thing both on the Mainland and in the Zone.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] widespread use\n
 		</text>
 	</string>
@@ -193,7 +193,7 @@
 	</string>
 	<string id="st_termos_descr">
 		<text>A type of household thermal insulation cookware for long-term preservation of a higher or lower temperature of food products, compared with the ambient temperature. It is a kind of Dewar vessel.The thermos can be used not only for storing ready-made drinks and food, but also for their preparation, for example, various infusions and porridges. It was developed at the Research Institute of Lukashuk.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] widespread use\n
 		</text>
 	</string>
@@ -202,7 +202,7 @@
 	</string>
 	<string id="st_termos_tea_descr">
 		<text>Thermos with strong tea.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] strong sobering effect\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -213,7 +213,7 @@
 	</string>
 	<string id="st_termos_coffee_descr">
 		<text>Thermos of coffee. Suitable in the morning for cheerfulness before the next outing.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] strong sobering effect\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -221,7 +221,7 @@
 	</string>
 	<string id="st_korkunov_0_descr">
 		<text>Bitter. A favorite treat of many stalkers. A great remedy for a bad mood.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -229,7 +229,7 @@
 	</string>
 	<string id="st_korkunov_1_descr">
 		<text>Milk. A favorite treat of many stalkers. A great remedy for a bad mood.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -237,7 +237,7 @@
 	</string>
 	<string id="st_korkunov_2_descr">
 		<text>Bitter whole almonds. A favorite treat of many stalkers. A great remedy for a bad mood.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -245,7 +245,7 @@
 	</string>
 	<string id="st_korkunov_3_descr">
 		<text>Bitter with whole hazelnuts. A favorite treat of many stalkers. A great remedy for a bad mood.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -253,7 +253,7 @@
 	</string>
 	<string id="st_korkunov_4_descr">
 		<text>Milk with whole hazelnuts. A favorite treat of many stalkers. A great remedy for a bad mood.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -261,7 +261,7 @@
 	</string>
 	<string id="st_milka_0_descr">
 		<text>With caramel. Very tasty milk chocolate. Very rare in the Zone.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -269,7 +269,7 @@
 	</string>
 	<string id="st_milka_1_descr">
 		<text>Air. Very tasty milk chocolate. Very rare in the Zone.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -277,7 +277,7 @@
 	</string>
 	<string id="st_milka_2_descr">
 		<text>White. Very tasty milk chocolate. Very rare in the Zon.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -285,7 +285,7 @@
 	</string>
 	<string id="st_milka_3_descr">
 		<text>Whole almonds. Very tasty milk chocolate. Very rare in the Zone.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -293,7 +293,7 @@
 	</string>
 	<string id="st_milka_4_descr">
 		<text>Tuk. Very tasty milk chocolate. Very rare in the Zone.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -301,7 +301,7 @@
 	</string>
 	<string id="st_milka_5_descr">
 		<text>Strawberry. Very tasty milk chocolate. Very rare in the Zone.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -309,7 +309,7 @@
 	</string>
 	<string id="st_milka_6_descr">
 		<text>Strawberries and cream. Very tasty milk chocolate. Very rare in the Zone.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -317,7 +317,7 @@
 	</string>
 	<string id="st_milka_7_descr">
 		<text>Hazelnuts and raisins. Very tasty milk chocolate. Very rare in the Zone.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -325,7 +325,7 @@
 	</string>
 	<string id="st_milka_8_descr">
 		<text>Hazelnuts. Very tasty milk chocolate. Very rare in the Zone.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -336,7 +336,7 @@
         </string>
 	<string id="st_meat_korova_descr">
 		<text>Your favorite beef is perfectly seasoned and moderately salty, it will support your strength for several hours. This separate batch was collected from the best meat in the Zone, so the side effects are slightly weaker than from a typical stalker diet.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -347,7 +347,7 @@
 	</string>
 	<string id="st_olivki_descr">
 		<text>A fresh jar of olives, there are no others in the Zone. A popular and very marketable product among stalkers, but quickly spoiling in the conditions of the zone.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -358,7 +358,7 @@
 	</string>
 	<string id="st_sir_descr">
 		<text>Ordinary processed cheese from a local underground factory. Despite the fact that it is being prepared in the Zone, no one has been poisoned yet.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -369,7 +369,7 @@
 	</string>
 	<string id="st_orehi_descr">
 		<text>A special jar of nuts with an increased amount of vitamins. You can quickly get enough of them and restore a little energy.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -380,7 +380,7 @@
 	</string>
 	<string id="st_sok_descr">
 		<text>A nutritious product that perfectly restores health.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -391,7 +391,7 @@
 	</string>
 	<string id="st_pivo_descr">
 		<text>Strong enough beer, but not tasty.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] stimulator\n
@@ -403,7 +403,7 @@
 	</string>
 	<string id="st_batonchik_descr">
 		<text>Delicious milk chocolate bar with cream filling. A great remedy for a bad mood.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -414,7 +414,7 @@
 	</string>
 	<string id="st_samogon_descr">
 		<text>Homemade vodka, freshly brewed for excursions to the Zone. Contains some special ingredients, the composition of which is passed from stalker to stalker.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] stimulator\n
 		%c[d_red] • %c[ui_gray_2] strong alcohol\n
@@ -426,7 +426,7 @@
 	</string>
 	<string id="st_cookies_descr">
 		<text>Oatmeal cookies with chocolate drops. Probably this is the most useful food that can be in the Zone.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -437,7 +437,7 @@
 	</string>
 	<string id="st_suhariki_descr">
 		<text>These crispy pieces are great for beer or soup.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		</text>
 	</string>
@@ -456,7 +456,7 @@
 	</string>
 	<string id="st_conserva_0_descr">
 		<text>Presumably, canned food from an army food warehouse stolen by stalkers; it is not possible to establish exactly because of the absence of any label. The main thing is that the expiration date does not seem to have expired yet.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -467,7 +467,7 @@
 	</string>
 	<string id="st_redbull_descr">
 		<text>Red Bull — this is a functional drink that inspires when needed. Are you a stalker and you're going on a night out? Stalker life may not be easy, but with Red Bull wings you can stay on top.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] stimulator\n
@@ -480,7 +480,7 @@
 	</string>
 	<string id="st_sok_2_descr">
 		<text>A nutritious product that perfectly restores health.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -491,7 +491,7 @@
 	</string>
 	<string id="st_sok_3_descr">
 		<text>A nutritious product that perfectly restores health.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -502,7 +502,7 @@
 	</string>
 	<string id="st_vodka_1_descr">
 		<text>Vodka produced by GSC. It is well drunk, significantly reduces the effect of radiation on the body, although it should not be abused.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] stimulator\n
 		%c[d_red] • %c[ui_gray_2] strong alcohol\n
@@ -513,7 +513,7 @@
 	</string>
 	<string id="st_adrenaline_descr">
 		<text>Adrenaline Rush — this is a specially developed complex of effective toning ingredients that will give you a boost of energy, whatever you need it for..\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] stimulator\n
@@ -526,78 +526,68 @@
 	</string>
 	<string id="st_dirol_descr">
 		<text> Chewing gum with mint flavor. A great way to get rid of an unpleasant smell in the mouth. Does not contain sugar.\n \n
-		%c[ui_gray_3]specifications:\n
 		</text>
 	</string>
 	<string id="st_dirol_0_descr">
 		<text> Chewing gum with the taste of watermelon and melon. A great way to get rid of an unpleasant smell in the mouth. Does not contain sugar.\n \n
-		%c[ui_gray_3]specifications:\n
 		</text>
 	</string>
 	<string id="st_dirol_1_descr">
 		<text> Chewing gum with mango flavor. A great way to get rid of an unpleasant smell in the mouth. Does not contain sugar.\n \n
-		%c[ui_gray_3]specifications:\n
 		</text>
 	</string>
 	<string id="st_dirol_2_descr">
 		<text> Chewing gum with passion fruit flavor. A great way to get rid of an unpleasant smell in the mouth. Does not contain sugar.\n \n
-		%c[ui_gray_3]specifications:\n
 		</text>
 	</string>
 	<string id="st_dirol_3_descr">
 		<text> Sweet mint. A great way to get rid of an unpleasant smell in the mouth. Does not contain sugar.\n \n
-		%c[ui_gray_3]specifications:\n
 		</text>
 	</string>
 	<string id="st_dirol_4_descr">
 		<text> Chewing gum coconut and strawberry flavored. A great way to get rid of an unpleasant smell in the mouth. Does not contain sugar.\n \n
-		%c[ui_gray_3]specifications:\n
 		</text>
 	</string>
 	<string id="st_dirol_5_descr">
 		<text> Chewing gum with watermelon flavor. A great way to get rid of an unpleasant smell in the mouth. Does not contain sugar.\n \n
-		%c[ui_gray_3]specifications:\n
 		</text>
 	</string>
 	<string id="st_dirol_6_descr">
 		<text> Chewing gum strawberry flavored. A great way to get rid of an unpleasant smell in the mouth. Does not contain sugar.\n \n
-		%c[ui_gray_3]specifications:\n
 		</text>
 	</string>
 	<string id="st_dirol_7_descr">
 		<text> Chewing gum strawberry flavored. A great way to get rid of an unpleasant smell in the mouth. Does not contain sugar.\n \n
-		%c[ui_gray_3]specifications:\n
 		</text>
 	</string>
 	<string id="st_dirol_8_descr">
 		<text> Chewing gum with a tangerine flavor. A great way to get rid of an unpleasant smell in the mouth. Does not contain sugar.\n \n
-		%c[ui_gray_3]specifications:\n
 		</text>
 	</string>
 	<string id="st_galet_0_descr">
 		<text>With onions. It is quite nutritious, allowing long-term storage of the product, but you will not get enough of it. Usually found in the military.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n</text>
 	</string>
 	<string id="st_galet_1_descr">
 		<text>Classic. It is quite nutritious, allowing long-term storage of the product, but you will not get enough of it. Usually found in the military.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n</text>
 	</string>
 	<string id="st_galet_2_descr">
 		<text>With cheese. It is quite nutritious, allowing long-term storage of the product, but you will not get enough of it. Usually found in the military.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n</text>
 	</string>
 	<string id="st_galet_3_descr">
 		<text>With a poppy. It is quite nutritious, allowing long-term storage of the product, but you will not get enough of it. Usually found in the military.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n</text>
@@ -607,7 +597,7 @@
 	</string>
 	<string id="st_sguha_descr">
 		<text>Ordinary concentrated milk with sugar. Great comes with bread and hot tea.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -618,7 +608,7 @@
 	</string>
 	<string id="st_sguha_0_descr">
 		<text>Ordinary concentrated boiled milk with sugar. Will bring back to you the taste of a bygone childhood.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -629,7 +619,7 @@
 	</string>
 	<string id="st_tolkanka_descr">
 		<text>In the Zone, toilet paper is highly valued and therefore stalkers immediately buy everything from merchants. Of course, burdocks have not been canceled, but still ordinary toilet paper is much nicer.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] widespread use\n
 		</text>
 	</string>
@@ -638,7 +628,7 @@
 	</string>
 	<string id="st_bondauel_0_descr">
 		<text>Sweet corn beans "Bonduelle". A great breakfast for every stalker. All the corn is made from the highest grade!\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -649,7 +639,7 @@
 	</string>
 	<string id="st_bondauel_2_descr">
 		<text>Green peas with carrots in cubes. "Tender peas with diced carrots in a sweet marinade, one of the best breakfasts of every stalker.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -660,7 +650,7 @@
 	</string>
 	<string id="st_bondauel_3_descr">
 		<text>Diced beetroot in sweet and sour marinade. The beetroot marinade will help perfectly in the morning after a little drinking.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -671,7 +661,7 @@
 	</string>
 	<string id="st_bondauel_4_descr">
 		<text>White beans in tomato sauce "Piquant". A ready-made dish, magnificent in its simplicity and nutritiousness. Light tomato sauce successfully emphasizes and enriches the taste of white beans. And if you add it to scrambled eggs and bacon, you will get a traditional English breakfast - hearty and healthy, giving the body the necessary proteins, carbohydrates, fiber and iron.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -682,7 +672,7 @@
 	</string>
 	<string id="st_bondauel_5_descr">
 		<text>Red beans in their own juice are an ideal component for sauces and hot dishes: cooked according to classical technology, the beans have a more crumbly texture, and the light aroma of sweet pepper and garlic organically complements its taste.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -693,7 +683,7 @@
 	</string>
 	<string id="st_bondauel_6_descr">
 		<text>White beans in their own juice are an ideal component for sauces and hot dishes: cooked according to classical technology, the beans have a more crumbly texture, and the light aroma of sweet pepper and garlic organically complements its taste.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -704,7 +694,7 @@
 	</string>
 	<string id="st_bondauel_7_descr">
 		<text>A great breakfast for every stalker.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -715,7 +705,7 @@
 	</string>
 	<string id="st_bondauel_8_descr">
 		<text>Pitted olives. An indispensable source of vitamins and minerals.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -726,7 +716,7 @@
 	</string>
 	<string id="st_bondauel_9_descr">
 		<text>Olives with a stone. A little sunny Spanish happiness — this is how you can describe the taste of Bonduelle olives. Therefore, you can not do without them in the preparation of delicious and elegant snacks, especially canapes and tartlets. In a jar in which you will never find excess water, only carefully selected in size, mature fruits with a balanced taste get into.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -737,7 +727,7 @@
 	</string>
 	<string id="st_kvas_descr">
 		<text>Kvass "Ochakovsky" is made entirely from natural products - the best thirst quenching on any day.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -748,7 +738,7 @@
 	</string>
 	<string id="st_vodka_2_descr">
 		<text>Vodka is made on the basis of alcohol "LUX". Classic mild taste.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] stimulator\n
 		%c[d_red] • %c[ui_gray_2] strong alcohol\n
@@ -759,7 +749,7 @@
 	</string>
 	<string id="st_vodka_3_descr">
 		<text>Vodka "The Squirrel has come!" is very popular for its non-standard design and excellent taste qualities, which cause the real admiration of stalkers.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] stimulator\n
 		%c[d_red] • %c[ui_gray_2] strong alcohol\n
@@ -770,7 +760,7 @@
 	</string>
 	<string id="st_vodka_4_descr">
 		<text>Imported vodka of good quality, which got into the Zone through one of the commanders of the checkpoint on the Cordon.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] stimulator\n
 		%c[d_red] • %c[ui_gray_2] strong alcohol\n
@@ -781,7 +771,7 @@
 	</string>
 	<string id="st_vodka_5_descr">
 		<text>Imported vodka with an exquisitely subtle shade. Very strong, tart, and at the same time mild alcohol with a pleasant aftertaste.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] stimulator\n
 		%c[d_red] • %c[ui_gray_2] strong alcohol\n
@@ -792,7 +782,7 @@
 	</string>
 	<string id="st_vino_descr">
 		<text>Wine made by the Bartender.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] stimulator\n
 		%c[d_blue] • %c[ui_gray_2] produced in the Zone\n
@@ -804,7 +794,7 @@
 	</string>
 	<string id="st_conserva_1_descr">
 		<text>Millet porridge with small pieces of beef.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -815,7 +805,7 @@
 	</string>
 	<string id="st_conserva_2_descr">
 		<text>Millet porridge with pieces of chicken breast. It is part of the IRP of Russia and Ukraine.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -826,7 +816,7 @@
 	</string>
 	<string id="st_conserva_3_descr">
 		<text>Buckwheat porridge with pork slices and fat.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -837,7 +827,7 @@
 	</string>
 	<string id="st_conserva_4_descr">
 		<text>Buckwheat porridge with beef slices.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -848,7 +838,7 @@
 	</string>
 	<string id="st_conserva_5_descr">
 		<text>Buckwheat porridge with finely chopped sausages.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -859,7 +849,7 @@
 	</string>
 	<string id="st_conserva_6_descr">
 		<text>Pearl porridge with pork slices and fat.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -870,7 +860,7 @@
 	</string>
 	<string id="st_conserva_7_descr">
 		<text>Pearl porridge with beef slices.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -881,7 +871,7 @@
 	</string>
 	<string id="st_conserva_8_descr">
 		<text>Rice porridge with beef slices. It is part of the IRP of Russia and Ukraine.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -892,7 +882,7 @@
 	</string>
 	<string id="st_conserva_9_descr">
 		<text>Buckwheat porridge with pieces of crucian carp.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -903,7 +893,7 @@
 	</string>
 	<string id="st_conserva_10_descr">
 		<text>From liver and caviar of cod fish.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -914,7 +904,7 @@
 	</string>
 	<string id="st_conserva_11_descr">
 		<text>It goes well under the snack.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -925,7 +915,7 @@
 	</string>
 	<string id="st_conserva_12_descr">
 		<text>Salmon pate classic.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -936,7 +926,7 @@
 	</string>
 	<string id="st_conserva_13_descr">
 		<text>Pacific saury pate.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -947,7 +937,7 @@
 	</string>
 	<string id="st_conserva_14_descr">
 		<text>Cow, goose and chicken liver pate.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -958,7 +948,7 @@
 	</string>
 	<string id="st_conserva_15_descr">
 		<text>This is how the pate should be, good consistency, balanced taste, there is no chemistry in the composition, according to GOST.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -969,7 +959,7 @@
 	</string>
 	<string id="st_conserva_16_descr">
 		<text>Chicken liver pate.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
@@ -980,7 +970,7 @@
 	</string>
 	<string id="st_conserva_17_descr">
 		<text>Beef liver pate.\n \n
-		%c[ui_gray_3]specifications:\n
+		%c[ui_gray_3]Specifications:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] healthy eating\n
